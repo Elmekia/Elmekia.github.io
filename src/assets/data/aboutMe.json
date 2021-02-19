@@ -1,0 +1,30 @@
+[
+    {
+      "img": "profile2.PNG",
+      "headerTitle": "Soy..",
+      "subheader": "Matías de la Iglesia",
+      "mediaTitle": "Mati dela",
+      "content": "Nací el 18 de diciembre de 1989 en Buenos Aires, Argentina y vivo en la ciudad de Paso del Rey"
+    },
+    {
+        "img": "coder2.jpg",
+        "headerTitle": "Me dedico a...",
+        "subheader": "Desarrollar software",
+        "mediaTitle": "img prestada",
+        "content": "Desarrollo y diseño software profesionalmente. Comencé con Java y sql en el 2016 y fui sumando javascript con diversos frameworks como Angular2 y react js."
+      },
+      {
+        "img": "coder1.png",
+        "headerTitle": "Quiero ser..",
+        "subheader": "Un excelente dev",
+        "mediaTitle": "Mati dela",
+        "content": "Mi objetivo profesional es siempre aprender cosas nuevas y mejorar los conocimientos ya adquiridos. Me apasiona mni trabajo y simplemente quiero ser mejor haciendolo."
+      },
+      {
+        "img": "deporte.jpg",
+        "headerTitle": "Tambien me gusta..",
+        "subheader": "Música, deportes, videojuegos y viajar",
+        "mediaTitle": "Mati dela",
+        "content": "Suelo escuchar música mientras trabajo, hacer deporte siempre que puedo (tenis, futbol, handball, etc). Juego videojuegos cada tanto (casi todos los días) y viajo siempre que puedo. "
+      }
+  ]
